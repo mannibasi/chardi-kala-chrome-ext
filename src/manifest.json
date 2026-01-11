@@ -1,0 +1,10 @@
+{
+  "name": "Chardi Kala",
+  "description": "An extension to spread positivity",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "chardi_kala.html",
+    "default_icon": "chardi_kala.png"
+  }
+}
