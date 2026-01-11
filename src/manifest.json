@@ -5,6 +5,12 @@
   "manifest_version": 3,
   "action": {
     "default_popup": "chardi_kala.html",
-    "default_icon": "chardi_kala.png"
+    "default_icon": "images/chardi_kala_128x128.png"
+  },
+  "icons": {
+    "16": "images/chardi_kala_16x16.png",
+    "32": "images/chardi_kala_32x32.png",
+    "48": "images/chardi_kala_48x48.png",
+    "128": "images/chardi_kala_128x128.png"
   }
 }
