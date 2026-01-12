@@ -1,1 +1,0 @@
-console.log("Chardi Kala - A state of high spirits and optimism, even in the face of adversity.");
