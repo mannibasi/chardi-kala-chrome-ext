@@ -1,6 +1,7 @@
 import './App.css'
 
 import { useState } from "react";
+import { Clock } from "./Clock/Clock.tsx";
 
 const messages = [
   "May you forever remain in Chardi Kala!",
@@ -68,10 +69,10 @@ const getRandomMessage = () => {
 
 function App() {
   const [message] = useState(getRandomMessage());
-
   return (
     <>
       <div>
+        <Clock />
         <h1>{message}</h1>
       </div>
     </>

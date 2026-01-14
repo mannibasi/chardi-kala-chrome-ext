@@ -1,0 +1,10 @@
+.clock {
+    font-family: "Open Sans", sans-serif;
+    font-size: 2rem;
+    color: #333;
+    background-color: #f0f0f0;
+    padding: 10px 10px;
+    border-radius: 10px;
+    display: inline-block;
+    margin: 15px;
+}
